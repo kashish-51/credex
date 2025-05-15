@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Software License Resale Website
 
 ## 🧩 Features Implemented
@@ -38,3 +39,6 @@
 ```bash
 npm install
 npm run dev
+=======
+# credex
+>>>>>>> 38481d5f9064d9372c307662c0c95bd1f21e4b94
